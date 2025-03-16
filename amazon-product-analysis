@@ -1,0 +1,23 @@
+# Amazon Product Review and Sentiment Analysis
+
+## Objective
+Analyze Amazon product reviews and ratings for melatonin supplements.
+
+## Tools
+- **Python**: For data analysis and visualization
+- **Libraries**: Pandas, Matplotlib, Seaborn, Numpy, TextBlob, WordCloud, Sentiment Analysis
+- **Power BI**: For interactive visualization (optional, if applicable)
+
+## Steps
+- Data Preprocessing: Clean and process raw data
+- Sentiment Analysis: Apply NLP techniques to analyze sentiment in reviews
+- WordCloud: Visualize the most frequent words in reviews
+- Ratings Distribution: Analyze the distribution of product ratings
+
+## Outcome
+- **Customer Sentiment Trends**: Insights on customer feedback.
+- **Rating Distribution**: Analysis of the product rating patterns.
+- **Product Insights**: Useful insights into product improvements based on sentiment.
+
+## Project Notebook
+The analysis and code are available in the [Group9_Project_final (1).ipynb](Group9_Project_final%20(1).ipynb) Jupyter notebook.
