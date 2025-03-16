@@ -19,7 +19,8 @@ This space is a curated collection of end-to-end projects demonstrating my skill
 - **Tools**: Python, Pandas, Seaborn, Scikit-learn, XGBoost
 - **Outcome**: Insights on risk factors and ML model performance (accuracy, ROC AUC, etc.)
 
-### 3️⃣ Amazon Melatonin Product Analysis
+### 3️⃣ [Amazon Product Review Analysis](./amazon_review_analysis/)
+
 - **Objective**: Analyze Amazon product reviews and ratings for melatonin supplements.
 - **Tools**: NLP, TextBlob, WordCloud, Sentiment Analysis, Power BI
 - **Outcome**: Customer sentiment trends, rating distribution, and product insights.
