@@ -9,7 +9,7 @@ This space is a curated collection of end-to-end projects demonstrating my skill
 
 ## 🔍 Projects Included
 
-### 1️⃣ Pedestrian Detection
+### 1️⃣ [Pedestrian Detection using OpenCV](./pedestrian_detection/)
 - **Objective**: Implement object detection algorithms (HOG + SVM / YOLO / OpenCV-based detection).
 - **Tools**: Python, OpenCV, Scikit-learn
 - **Outcome**: Detect pedestrians in live video or image frames with accuracy metrics.
@@ -20,7 +20,6 @@ This space is a curated collection of end-to-end projects demonstrating my skill
 - **Outcome**: Insights on risk factors and ML model performance (accuracy, ROC AUC, etc.)
 
 ### 3️⃣ [Amazon Product Review Analysis](./amazon_review_analysis/)
-
 - **Objective**: Analyze Amazon product reviews and ratings for melatonin supplements.
 - **Tools**: NLP, TextBlob, WordCloud, Sentiment Analysis, Power BI
 - **Outcome**: Customer sentiment trends, rating distribution, and product insights.
