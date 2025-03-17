@@ -14,7 +14,7 @@ This space is a curated collection of end-to-end projects demonstrating my skill
 - **Tools**: Python, OpenCV, Scikit-learn
 - **Outcome**: Detect pedestrians in live video or image frames with accuracy metrics.
 
-### 2️⃣ Diabetic Patient Data Analysis
+### 2️⃣ [Diabetic Patient Data Analysis](./diabetic_analysis_project/)
 - **Objective**: Perform EDA and build predictive models on patient health records to analyze diabetic risks.
 - **Tools**: Python, Pandas, Seaborn, Scikit-learn, XGBoost
 - **Outcome**: Insights on risk factors and ML model performance (accuracy, ROC AUC, etc.)
