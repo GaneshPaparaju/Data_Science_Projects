@@ -24,6 +24,11 @@ This space is a curated collection of end-to-end projects demonstrating my skill
 - **Tools**: NLP, TextBlob, WordCloud, Sentiment Analysis, Power BI
 - **Outcome**: Customer sentiment trends, rating distribution, and product insights.
 
+### 4️⃣ [Household Loan Prediction](./household-loan-prediction/)
+- **Objective**: Predict whether a household requires a loan based on features like income, family size, and income source.
+- **Tools**: Python, Pandas, Scikit-learn, Logistic Regression, Decision Tree
+- **Outcome**: A model to predict loan requirements, with logistic regression being the most suitable algorithm for this dataset.
+
 ---
 
 ## 🧠 Skills Demonstrated
