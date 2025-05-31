@@ -19,9 +19,14 @@ This space is a curated collection of end-to-end projects demonstrating my skill
 - **Outcome**: Detect pedestrians in live video or image frames with accuracy metrics.
 
 ### 2️⃣ [Diabetic Patient Data Analysis](./diabetic_analysis_project/)
-- **Objective**: Perform EDA and build predictive models on patient health records to analyze diabetic risks.
-- **Tools**: Python, Pandas, Seaborn, Scikit-learn, XGBoost
-- **Outcome**: Insights on risk factors and ML model performance (accuracy, ROC AUC, etc.)
+- **Objective**: Analyze diabetic patient records to classify high-risk cases based on `glyhb` levels.
+- **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Jupyter
+- **Outcome**: 
+  - Handled missing values and categorical encoding
+  - Built classification models (Logistic Regression, Random Forest)
+  - Achieved ~93% test accuracy and ROC AUC of 0.92
+  - Visualized feature importance and evaluation metrics
+
 
 ### 3️⃣ [Amazon Product Review Analysis](./amazon_review_analysis/)
 - **Objective**: Analyze Amazon product reviews and ratings for melatonin supplements.
