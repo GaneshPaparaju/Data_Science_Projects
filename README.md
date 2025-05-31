@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Status](https://img.shields.io/badge/Portfolio-Complete-brightgreen)
+
 # Data Science & Analytics Project Portfolio 📊
 
 ## 👨‍💻 Author: Ganesh Paparaju
