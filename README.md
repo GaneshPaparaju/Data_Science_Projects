@@ -30,7 +30,7 @@ This space is a curated collection of end-to-end projects demonstrating my skill
 
 ### 3️⃣ [Amazon Product Review Analysis](./amazon_review_analysis/)
 - **Objective**: Analyze Amazon product reviews and ratings for melatonin supplements.
-- **Tools**: NLP, TextBlob, WordCloud, Sentiment Analysis, Power BI
+- **Tools**: NLP, TextBlob, WordCloud, Sentiment Analysis.
 - **Outcome**: Customer sentiment trends, rating distribution, and product insights.
 
 ### 4️⃣ [Household Loan Prediction](./household_loan_prediction/)
